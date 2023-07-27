@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2793775-2b1e-41c3-8e16-68284d90772d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/tools/sanitizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/bootstrap/scss/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/ajax/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/ajax/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/ajax/parseXML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/ajax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/attributes/attr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/attributes/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/attributes/prop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/attributes/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/attributes/val.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/DOMEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/access.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/camelCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/isAttached.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/nodeName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/parseHTML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/ready-no-deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/ready.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/readyException.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/stripAndCollapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/core/toType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/css/addGetHookIf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/css/adjustCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/css/curCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/css/finalPropName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/css/showHide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/css/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/data/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/deferred/exceptionHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/effects/Tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/effects/animatedSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/event/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/event/alias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/event/focusin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/event/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/event/trigger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/exports/amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/exports/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/manipulation/buildFragment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/manipulation/getAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/manipulation/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/manipulation/wrapMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/queue/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/selector-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/selector-sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/traversing/findFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/jquery/src/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/popper.js/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/popper.js/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/popper.js/index.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/static/popper.js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/posts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yatube/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SjWnGukeBUsFE8FsElakDSqCcZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dmitriinizovcev/Dev/yatube",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2793775-2b1e-41c3-8e16-68284d90772d" name="Changes" comment="" />
+      <created>1689660636042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689660636042</updated>
+      <workItem from="1689660637476" duration="190000" />
+      <workItem from="1689660827865" duration="16000" />
+      <workItem from="1689660860575" duration="296000" />
+      <workItem from="1689662696373" duration="3702000" />
+      <workItem from="1689698950144" duration="1913000" />
+      <workItem from="1689754256787" duration="74000" />
+      <workItem from="1690350367830" duration="3526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
