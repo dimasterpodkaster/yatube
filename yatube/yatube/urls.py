@@ -15,8 +15,34 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import include, path
+from posts import views
+from django.conf import settings
+from django.conf.urls.static import static
+if settings.DEBUG:
+    import debug_toolbar
+
+handler404 = "posts.views.page_not_found" # noqa
+handler500 = "posts.views.server_error" # noqa
 
 urlpatterns = [
-    path("", include("posts.urls")),
-    path('admin/', admin.site.urls),
+    path("admin/", admin.site.urls),
+    path("auth/", include("Users.urls")),
+    path("auth/", include("django.contrib.auth.urls")),
+    path("about/", include('django.contrib.flatpages.urls')),
+    path("group/<slug:slug>/", views.group_posts, name="group_posts"),
+    path("new/", views.new_post, name="new_post"),
+    path("500/", views.server_error, name="server_error")
 ]
+
+from django.contrib.flatpages import views
+
+urlpatterns += [
+    path('about-author/', views.flatpage, {'url': '/about-author/'}, name='about'),
+    path('about-spec/', views.flatpage, {'url': '/about-spec/'}, name='tech'),
+    path("", include("posts.urls")),
+]
+
+if settings.DEBUG:
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+    urlpatterns += (path("__debug__/", include(debug_toolbar.urls)),)
