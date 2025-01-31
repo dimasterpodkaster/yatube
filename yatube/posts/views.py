@@ -185,3 +185,8 @@ def follow_index(request):
         'follow.html',
         {'page': page, 'paginator': paginator}
     )
+
+
+def view_image(request, post_id):
+    post = get_object_or_404(Post, id=post_id)
+    return render(request, 'view_image.html', {'post': post})

@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container text-center mt-4">
+    <h2>Просмотр изображения</h2>
+    <div class="mt-3">
+        <img src="{{ post.image.url }}" class="img-fluid" alt="Полное изображение">
+    </div>
+    <div class="mt-3">
+        <a href="{% url 'index' %}" class="btn btn-primary">Назад</a>
+    </div>
+</div>
+{% endblock %}
