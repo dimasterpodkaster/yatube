@@ -81,6 +81,7 @@ All post-creation, editing, commenting, and following actions require user authe
 - **Group Pages**: Users can view posts related to specific topics or groups.
 - **Authentication**: Secure user authentication system with login/logout functionality.
 
-# yatube
+## YaTube
 Социальная сеть для блогеров
+
 Это учебный проект, созданный в целях практики работы с Python.
