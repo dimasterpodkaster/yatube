@@ -24,6 +24,9 @@ if settings.DEBUG:
 handler404 = "posts.views.page_not_found" # noqa
 handler500 = "posts.views.server_error" # noqa
 
+def trigger_error(request):
+    division_by_zero = 1 / 0
+
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("auth/", include("Users.urls")),
@@ -31,7 +34,8 @@ urlpatterns = [
     path("about/", include('django.contrib.flatpages.urls')),
     path("group/<slug:slug>/", views.group_posts, name="group_posts"),
     path("new/", views.new_post, name="new_post"),
-    path("500/", views.server_error, name="server_error")
+    path("500/", views.server_error, name="server_error"),
+    # path('sentry-debug/', trigger_error),
 ]
 
 from django.contrib.flatpages import views
